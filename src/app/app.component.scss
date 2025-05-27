@@ -1,0 +1,42 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --success-color: #28a745;
+  --danger-color: #dc3545;
+  --warning-color: #ffc107;
+  --info-color: #17a2b8;
+  --light-color: #f8f9fa;
+  --dark-color: #343a40;
+}
+
+.app-container {
+  padding: 20px;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+h1 {
+  color: var(--primary-color);
+  text-align: center;
+}
+
+.table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border: 1px solid var(--secondary-color);
+  padding: 10px;
+  text-align: left;
+}
+
+.table th {
+  background-color: var(--primary-color);
+  color: var(--light-color);
+}
+
+.table tr:nth-child(even) {
+  background-color: var(--light-color);
+}
