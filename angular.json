@@ -100,5 +100,8 @@
       }
     }
   },
-  "defaultProject": "gitflow-people"
+  "defaultProject": "gitflow-people",
+  "cli": {
+    "analytics": "d32a0e94-0b64-432f-9884-02a7e329a452"
+  }
 }
