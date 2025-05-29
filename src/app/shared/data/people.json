@@ -3,30 +3,35 @@
     "id": 1,
     "name": "John Doe",
     "age": 30,
-    "email": "john.doe@example.com"
+    "email": "john.doe@example.com",
+    "birthdate": "1994-03-15"
   },
   {
     "id": 2,
     "name": "Jane Smith",
     "age": 25,
-    "email": "jane.smith@example.com"
+    "email": "jane.smith@example.com",
+    "birthdate": "1999-08-21"
   },
   {
     "id": 3,
     "name": "Alice Johnson",
     "age": 28,
-    "email": "alice.johnson@example.com"
+    "email": "alice.johnson@example.com",
+    "birthdate": "1996-01-09"
   },
   {
     "id": 4,
     "name": "Bob Brown",
     "age": 35,
-    "email": "bob.brown@example.com"
+    "email": "bob.brown@example.com",
+    "birthdate": "1989-05-27"
   },
   {
     "id": 5,
     "name": "Charlie Davis",
     "age": 22,
-    "email": "charlie.davis@example.com"
+    "email": "charlie.davis@example.com",
+    "birthdate": "2002-11-03"
   }
 ]
