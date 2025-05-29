@@ -29,7 +29,7 @@
     "age": 35,
     "email": "bob.brown@example.com",
     "birthdate": "1989-05-27",
-    "Documento": "345675432",
+    "Documento": "345675432"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "age": 22,
     "email": "charlie.davis@example.com",
     "birthdate": "2002-11-03",
-    "Documento": "12123123",
+    "Documento": "12123123"
   }
 ]
