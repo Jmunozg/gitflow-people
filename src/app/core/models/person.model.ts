@@ -3,5 +3,6 @@ export interface Person {
   name: string;
   age: number;
   email: string;
+  birthdate: Date;
   Documento: string;
 }

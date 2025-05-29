@@ -4,6 +4,7 @@
     "name": "John Doe",
     "age": 30,
     "email": "john.doe@example.com",
+    "birthdate": "1994-03-15",
     "Documento": "123455"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Jane Smith",
     "age": 25,
     "email": "jane.smith@example.com",
+    "birthdate": "1999-08-21",
     "Documento": "123412"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Alice Johnson",
     "age": 28,
     "email": "alice.johnson@example.com",
+    "birthdate": "1996-01-09",
     "Documento": "142341"
   },
   {
@@ -25,13 +28,15 @@
     "name": "Bob Brown",
     "age": 35,
     "email": "bob.brown@example.com",
-    "Documento": "345675432"
+    "birthdate": "1989-05-27",
+    "Documento": "345675432",
   },
   {
     "id": 5,
     "name": "Charlie Davis",
     "age": 22,
     "email": "charlie.davis@example.com",
-    "Documento": "12123123"
+    "birthdate": "2002-11-03",
+    "Documento": "12123123",
   }
 ]
